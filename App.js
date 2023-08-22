@@ -26,7 +26,7 @@ const App = () => {
               <Icon
                 name="home"
                 size={19}
-                color={'#ED6767'} /> // Render the icon here
+                color={'#ED6767'} /> // Render the icon here ===>
             ),
 
           }} />
